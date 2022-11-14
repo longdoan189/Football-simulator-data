@@ -1,0 +1,235 @@
+﻿Team,Continent,Subcon,World,Rating,Elo0
+Afghanistan,Asia,Central,TRUE,54,1001
+Albania,Europe,,TRUE,72,1092
+Algeria,Africa,North,TRUE,76,1053
+American Samoa,Oceania,,TRUE,27,888
+Andorra,Europe,,TRUE,52,1110
+Angola,Africa,South,TRUE,62,984
+Anguilla,Americas,Caribbean,TRUE,31,911
+Antarctica,Oceania,,FALSE,10,909
+Antigua & Barbuda,Americas,Caribbean,TRUE,55,903
+Argentina,Americas,South,TRUE,87,1100
+Armenia,Europe,,TRUE,71,1104
+Aruba,Americas,Caribbean,TRUE,45,909
+Australia,Asia,ASEAN,TRUE,74,945
+Austria,Europe,,TRUE,80,1108
+Azerbaijan,Europe,,TRUE,66,1096
+Bahamas,Americas,Caribbean,TRUE,45,890
+Bahrain,Asia,West,TRUE,69,1052
+Bangladesh,Asia,South,TRUE,43,893
+Barbados,Americas,Caribbean,TRUE,53,892
+Belarus,Europe,,TRUE,70,1104
+Belgium,Europe,,TRUE,91,1095
+Belize,Americas,Central,TRUE,54,996
+Benin,Africa,West,TRUE,66,1050
+Bermuda,Americas,Caribbean,TRUE,60,905
+Bhutan,Asia,South,TRUE,31,910
+Bolivia,Americas,South,TRUE,73,1095
+Bonaire,Americas,Caribbean,FALSE,42,902
+Bosnia & Herzegovina,Europe,,TRUE,75,1099
+Botswana,Africa,South,TRUE,61,979
+Brazil,Americas,South,TRUE,92,1094
+British Virgin Islands,Americas,Caribbean,TRUE,33,909
+Brunei,Asia,ASEAN,TRUE,34,945
+Bulgaria,Europe,,TRUE,70,1111
+Burkina Faso,Africa,West,TRUE,69,1056
+Burundi,Africa,East,TRUE,58,958
+Cambodia,Asia,ASEAN,TRUE,42,943
+Cameroon,Africa,Central,TRUE,71,1007
+Canada,Americas,North,TRUE,71,989
+Cape Verde,Africa,West,TRUE,63,1039
+Cayman Islands,Americas,Caribbean,TRUE,45,891
+Central African Republic,Africa,Central,TRUE,61,989
+Chad,Africa,Central,TRUE,56,1006
+Chile,Americas,South,TRUE,81,1093
+China,Asia,East,TRUE,66,1041
+Colombia,Americas,South,TRUE,84,1111
+Comoros,Africa,South,TRUE,58,979
+Congo,Africa,Central,TRUE,63,1001
+Congo DR,Africa,Central,TRUE,67,1007
+Cook Islands,Oceania,,TRUE,36,893
+Costa Rica,Americas,Central,TRUE,71,999
+Croatia,Europe,,TRUE,82,1108
+Cuba,Americas,Caribbean,TRUE,59,893
+Curacao,Americas,Caribbean,TRUE,64,906
+Cyprus,Europe,,TRUE,63,1109
+Czechia,Europe,,TRUE,79,1092
+Denmark,Europe,,TRUE,85,1094
+Djibouti,Africa,East,TRUE,45,943
+Dominica,Americas,Caribbean,TRUE,50,895
+Dominican Republic,Americas,Caribbean,TRUE,56,896
+Ecuador,Americas,South,TRUE,81,1111
+Egypt,Africa,North,TRUE,71,1056
+El Salvador,Americas,Central,TRUE,66,992
+England,Europe,,TRUE,86,1091
+Equatorial Guinea,Africa,Central,TRUE,62,1011
+Eritrea,Africa,East,TRUE,54,957
+Estonia,Europe,,TRUE,66,1110
+Eswatini,Africa,South,TRUE,54,989
+Ethiopia,Africa,East,TRUE,59,951
+Faroe Islands,Europe,,TRUE,61,1106
+Federated States of Micronesia,Oceania,,FALSE,28,899
+Fiji,Oceania,,TRUE,57,899
+Finland,Europe,,TRUE,77,1095
+France,Europe,,TRUE,90,1096
+French Guiana,Americas,Caribbean,FALSE,52,896
+Gabon,Africa,Central,TRUE,65,995
+Gambia,Africa,West,TRUE,62,1054
+Georgia,Europe,,TRUE,70,1108
+Germany,Europe,,TRUE,86,1103
+Ghana,Africa,West,TRUE,71,1043
+Gibraltar,Europe,,TRUE,55,1100
+Greece,Europe,,TRUE,74,1100
+Greenland,Americas,North,FALSE,42,996
+Grenada,Americas,Caribbean,TRUE,57,898
+Guadeloupe,Americas,Caribbean,FALSE,50,896
+Guam,Asia,East,TRUE,38,1049
+Guatemala,Americas,Central,TRUE,67,992
+Guinea,Africa,West,TRUE,65,1044
+Guinea-Bissau,Africa,West,TRUE,60,1057
+Guyana,Americas,Caribbean,TRUE,57,900
+Haiti,Americas,Caribbean,TRUE,69,891
+Honduras,Americas,Central,TRUE,71,1002
+Hong Kong,Asia,East,TRUE,55,1038
+Hungary,Europe,,TRUE,79,1089
+Iceland,Europe,,TRUE,75,1104
+India,Asia,South,TRUE,56,907
+Indonesia,Asia,ASEAN,TRUE,53,947
+Iran,Asia,Central,TRUE,76,1001
+Iraq,Asia,West,TRUE,71,1053
+Ireland,Europe,,TRUE,75,1092
+Israel,Europe,,TRUE,73,1091
+Italy,Europe,,TRUE,87,1091
+Ivory Coast,Africa,West,TRUE,71,1042
+Jamaica,Americas,Caribbean,TRUE,70,905
+Japan,Asia,East,TRUE,75,1052
+Jordan,Asia,West,TRUE,67,1056
+Kazakhstan,Europe,,TRUE,64,1109
+Kenya,Africa,East,TRUE,62,946
+Kiribati,Oceania,,FALSE,27,909
+Korea DPR,Asia,East,TRUE,63,1046
+Korea Republic,Asia,East,TRUE,76,1044
+Kosovo,Europe,,TRUE,70,1093
+Kuwait,Asia,West,TRUE,64,1055
+Kyrgyzstan,Asia,Central,TRUE,59,1003
+Laos,Asia,ASEAN,TRUE,36,938
+Latvia,Europe,,TRUE,61,1093
+Lebanon,Asia,West,TRUE,63,1060
+Lesotho,Africa,South,TRUE,60,990
+Liberia,Africa,West,TRUE,61,1038
+Libya,Africa,North,TRUE,64,1040
+Liechtenstein,Europe,,TRUE,55,1096
+Lithuania,Europe,,TRUE,65,1107
+Luxembourg,Europe,,TRUE,65,1111
+Macau,Asia,East,TRUE,37,1054
+Madagascar,Africa,South,TRUE,64,985
+Malawi,Africa,South,TRUE,61,978
+Malaysia,Asia,ASEAN,TRUE,56,945
+Maldives,Asia,South,TRUE,47,891
+Mali,Africa,West,TRUE,70,1052
+Malta,Europe,,TRUE,59,1089
+Marshall Islands,Oceania,,FALSE,19,907
+Martinique,Americas,Caribbean,FALSE,57,904
+Mauritania,Africa,West,TRUE,61,1038
+Mauritius,Africa,South,TRUE,49,990
+Mexico,Americas,North,TRUE,81,991
+Moldova,Europe,,TRUE,60,1098
+Monaco,Europe,,FALSE,41,1097
+Mongolia,Asia,East,TRUE,38,1059
+Montenegro,Europe,,TRUE,71,1110
+Montserrat,Americas,Caribbean,TRUE,43,889
+Morocco,Africa,North,TRUE,73,1042
+Mozambique,Africa,South,TRUE,60,974
+Myanmar,Asia,ASEAN,TRUE,51,953
+Namibia,Africa,South,TRUE,61,987
+Nauru,Oceania,,FALSE,18,912
+Nepal,Asia,South,TRUE,45,888
+Netherlands,Europe,,TRUE,87,1107
+New Caledonia,Oceania,,TRUE,59,890
+New Zealand,Oceania,,TRUE,67,912
+Nicaragua,Americas,Central,TRUE,57,1000
+Niger,Africa,West,TRUE,58,1052
+Nigeria,Africa,West,TRUE,73,1058
+Niue,Oceania,,FALSE,25,896
+North Macedonia,Europe,,TRUE,72,1093
+Northern Ireland,Europe,,TRUE,73,1109
+Northern Marianas Islands,Asia,East,FALSE,22,1048
+Norway,Europe,,TRUE,79,1102
+Oman,Asia,West,TRUE,67,1050
+Pakistan,Asia,South,TRUE,44,904
+Palau,Oceania,,FALSE,21,906
+Palestine,Asia,West,TRUE,64,1049
+Panama,Americas,Central,TRUE,68,1008
+Papua New Guinea,Oceania,,TRUE,54,910
+Paraguay,Americas,South,TRUE,79,1098
+Peru,Americas,South,TRUE,80,1089
+Philippines,Asia,ASEAN,TRUE,55,950
+Poland,Europe,,TRUE,81,1089
+Portugal,Europe,,TRUE,88,1107
+Puerto Rico,Americas,Caribbean,TRUE,48,903
+Qatar,Asia,West,TRUE,72,1057
+Reunion,Africa,South,FALSE,55,968
+Romania,Europe,,TRUE,76,1107
+Russia,Europe,,TRUE,78,1093
+Rwanda,Africa,East,TRUE,59,952
+Saint Barthelemy,Americas,Caribbean,FALSE,33,903
+Saint Kitts & Nevis,Americas,Caribbean,TRUE,56,909
+Saint Lucia,Americas,Caribbean,TRUE,50,897
+Saint Martin,Americas,Caribbean,FALSE,38,895
+Saint Pierre & Miquelon,Americas,Caribbean,FALSE,32,888
+Saint Vincent & Grenadines,Americas,Caribbean,TRUE,56,895
+Samoa,Oceania,,TRUE,36,901
+San Marino,Europe,,TRUE,44,1090
+Sao Tome & Principe,Africa,Central,TRUE,52,991
+Saudi Arabia,Asia,West,TRUE,69,1053
+Scotland,Europe,,TRUE,76,1099
+Senegal,Africa,West,TRUE,76,1044
+Serbia,Europe,,TRUE,80,1109
+Seychelles,Africa,South,TRUE,45,968
+Sierra Leone,Africa,West,TRUE,62,1047
+Singapore,Asia,ASEAN,TRUE,55,938
+Sint Marteen,Americas,Caribbean,FALSE,35,911
+Slovakia,Europe,,TRUE,76,1088
+Slovenia,Europe,,TRUE,74,1096
+Solomon Islands,Oceania,,TRUE,55,910
+Somalia,Africa,East,TRUE,46,941
+South Africa,Africa,South,TRUE,68,986
+South Sudan,Africa,East,TRUE,52,945
+Spain,Europe,,TRUE,89,1094
+Sri Lanka,Asia,South,TRUE,35,906
+Sudan,Africa,East,TRUE,61,962
+Suriname,Americas,Caribbean,TRUE,61,891
+Sweden,Europe,,TRUE,81,1111
+Switzerland,Europe,,TRUE,83,1095
+Syria,Asia,West,TRUE,67,1057
+Tahiti,Oceania,,TRUE,56,890
+Taiwan,Asia,East,TRUE,47,1060
+Tajikistan,Asia,Central,TRUE,57,998
+Tanzania,Africa,East,TRUE,60,960
+Thailand,Asia,ASEAN,TRUE,62,939
+Timor-Leste,Asia,ASEAN,TRUE,34,948
+Togo,Africa,West,TRUE,60,1040
+Tonga,Oceania,,TRUE,30,910
+Trinidad & Tobago,Americas,Caribbean,TRUE,62,910
+Tunisia,Africa,North,TRUE,71,1042
+Turkey,Europe,,TRUE,79,1111
+Turkmenistan,Asia,Central,TRUE,59,991
+Turks & Caicos Islands,Americas,Caribbean,TRUE,41,900
+Tuvalu,Oceania,,FALSE,34,899
+Uganda,Africa,East,TRUE,67,941
+Ukraine,Europe,,TRUE,82,1094
+United Arab Emirates,Asia,West,TRUE,65,1038
+United States,Americas,North,TRUE,75,991
+Uruguay,Americas,South,TRUE,86,1091
+US Virgin Islands,Americas,Caribbean,TRUE,37,896
+Uzbekistan,Asia,Central,TRUE,69,1004
+Vanuatu,Oceania,,TRUE,55,904
+Vatican City,Europe,,FALSE,34,1092
+Venezuela,Americas,South,TRUE,81,1097
+Vietnam,Asia,ASEAN,TRUE,64,942
+Wales,Europe,,TRUE,81,1098
+Western Sahara,Africa,North,FALSE,43,1049
+Yemen,Asia,West,TRUE,57,1054
+Zambia,Africa,South,TRUE,65,978
+Zanzibar,Africa,East,FALSE,54,951
+Zimbabwe,Africa,South,TRUE,64,978
